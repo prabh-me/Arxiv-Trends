@@ -1,7 +1,3 @@
-### Things to think about
-### Most common word
-### Most common pairing of words
-### Modifiers to consider some pairs as single words (mapping before dumping into our dictionary)
 ### Dump useless words: the, we, a, etc...
 
 from blacklist import isBlacklisted, isNotBlacklisted
